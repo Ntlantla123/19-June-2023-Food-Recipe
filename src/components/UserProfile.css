@@ -1,0 +1,71 @@
+.Dildaar-UserProfile{
+    position:relative;
+    left:54vw;
+    z-index:1;
+    border-radius:4%;
+    width:437px;
+    background-color:transparent;
+    align-items: center;
+    align-content: center;
+    
+}
+.Dildaar-UserProfileHeader{
+    align-items: center;
+    align-content: center;
+    width: 85%;
+    height:100vh;
+    background-color:green;
+}
+.Dildaar-UserChannel{
+    position:relative;
+    left:77vw;
+    z-index:1;
+    border-radius:2%;
+    width:437px;
+    background-color:green;
+    align-items: center;
+    align-content: center;
+    
+}
+.Dildaar-UserChannelHeader{
+    align-items: center;
+    align-content: center;
+    width:437px;
+    height:100vh;
+    background-color:green;
+}
+.Dildaar-UserHistory{
+    position:relative;
+    left:77vw;
+    z-index:1;
+    border-radius:2%;
+    width:437px;
+    background-color:green;
+    align-items: center;
+    align-content: center;
+    
+}
+.Dildaar-UserHistoryHeader{
+    align-items: center;
+    align-content: center;
+    width:437px;
+    height:100vh;
+    background-color:green;
+}
+.Dildaar-helpAndfeedback{
+    position:relative;
+    left:77vw;
+    z-index:1;
+    border-radius:2%;
+    width:437px;
+    background-color:green;
+    align-items: center;
+    align-content: center;
+}
+.Dildaar-helpAndfeedbackHeader{
+    align-items: center;
+    align-content: center;
+    width:437px;
+    height:100vh;
+    background-color:green;
+}

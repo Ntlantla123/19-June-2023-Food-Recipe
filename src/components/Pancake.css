@@ -1,0 +1,10 @@
+body{
+    height: 130vw;
+}
+
+ul li {
+    position: relative;
+    top: 70px;
+    left: 14%;
+    text-align: left;
+}    
